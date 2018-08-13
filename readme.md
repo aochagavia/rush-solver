@@ -1,7 +1,7 @@
 Rush Solver
 ===========
 
-A solver for a rush-hour-like game. You can specify a starting point and
+A solver for rush-hour-like puzzles. You can specify a starting point and
 obtain the solution with the least amount of vehicle movement.
 
 Try `cargo run --release`, to see it in action!
