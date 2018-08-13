@@ -51,4 +51,4 @@ Final stage:
 
 ## License
 
-Apache
+MIT
