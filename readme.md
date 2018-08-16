@@ -11,7 +11,8 @@ Try `cargo run --release`, to see it in action!
 > Note that each number corresonds to a vehicle. For instance, `22` represents
 > a horizontal car in the coordinates `(0, 0)` and `(1, 0)`. In the same vein,
 > `777` represents a vertical truck in the coordinates `(5, 0)`, `(5, 1)` and
-> `(5, 2)`.
+> `(5, 2)`. Car `11` corresponds to the red car in the game. The puzzle is solved when
+> the car reaches the right side of the stage.
 
 ```
 Starting point:
